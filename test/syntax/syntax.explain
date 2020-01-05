@@ -1,0 +1,13 @@
+   // Nutzlos
+   //Wirklich
+ [audio|async](audio_async.mp3)
+   [img](pic_1.png)
+[pause|1.1]
+Hallo Welt.
+   [img](pic_2.png)
+Wie geht es dir?
+   [img](pic_3.png)
+Gut!
+[pause|1]
+[audio](audio.mp3)
+[pause|2.1]
